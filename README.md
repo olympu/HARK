@@ -19,6 +19,8 @@ Table of Contents:
 
 ## I. INTRODUCTION
 
+## Change here!
+
 This document will tell you how to get HARK up and
 running on your machine, how to get started using it, and give you an
 overview of the main elements of the toolkit.
